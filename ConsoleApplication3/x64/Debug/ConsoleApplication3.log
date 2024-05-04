@@ -1,3 +1,0 @@
-﻿  ConsoleApplication3.cpp
-D:\OneDrive - Centre d'Estudis Monlau\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(22,15): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
-  ConsoleApplication3.vcxproj -> D:\OneDrive - Centre d'Estudis Monlau\ConsoleApplication3\x64\Debug\ConsoleApplication3.exe
